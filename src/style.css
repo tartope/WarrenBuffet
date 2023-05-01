@@ -1,3 +1,24 @@
+body{
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    color: #000080;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1em
+}
+
 .flex-container {
     display: flex;
-  }
+}
+
+main{
+    border-style: solid;
+    color: red;
+}
+
+footer{
+    border-style: solid;
+    color: green;
+}
