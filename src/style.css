@@ -11,14 +11,17 @@ header{
 
 .flex-container {
     display: flex;
+    justify-content: space-around;
 }
 
-main{
-    border-style: solid;
-    color: red;
+ul li{
+    margin-bottom: 2em;
 }
+
+/* main{
+    border-style: solid;
+} */
 
 footer{
     border-style: solid;
-    color: green;
 }
