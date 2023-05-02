@@ -25,6 +25,15 @@ ul li{
     font-size: 10px;
 }
 
+.geico-section h1{
+    margin-bottom: 0;
+}
+
+.geico-section p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 /* main{
     border-style: solid;
 } */
