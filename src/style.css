@@ -34,6 +34,20 @@ ul li{
     margin-bottom: 0;
 }
 
+.bottom-paragraph{
+    color: #000080;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    margin: 13px 0px;
+}
+
+.disclaimer-copyright{
+    margin: 16px 0px;
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000080;
+}
+
 /* main{
     border-style: solid;
 } */
